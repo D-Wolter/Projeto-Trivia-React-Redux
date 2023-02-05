@@ -30,4 +30,4 @@ Nesse projeto, fui capaz de:
 
 - Escrever testes para garantir que sua aplicação possua uma boa cobertura de testes.
 
-<p align="center"><img src="./trivia.png" /></p>
+
